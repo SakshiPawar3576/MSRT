@@ -1,0 +1,10 @@
+streamlit
+openai-whisper
+torch==2.2.0
+torchaudio
+deep-translator
+gtts
+pydub
+soundfile
+ffmpeg-python
+onnxruntime
